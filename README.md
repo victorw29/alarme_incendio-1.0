@@ -102,7 +102,7 @@ git clone https://github.com/victorw29/alarmeincendio
 
 - [Projeto no Wokwi] https://wokwi.com/projects/423437352174661633
 
-- [Vídeo no YouTube] 
+- [Vídeo no YouTube] https://www.youtube.com/watch?v=fqCXCGpPFkg
 
 ---
 
