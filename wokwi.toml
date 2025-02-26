@@ -1,0 +1,5 @@
+[wokwi]
+
+version = 1
+firmware = "build/alarme2.uf2"
+elf = "build/alarme2.elf"
